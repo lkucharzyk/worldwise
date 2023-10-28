@@ -14,7 +14,7 @@ function Nav() {
           <NavLink to="/product">Product</NavLink>
         </li>
         <li>
-          <NavLink to="/login" className={styles.ctaLink}>
+          <NavLink to="/login" className={styles}>
             Login
           </NavLink>
         </li>
